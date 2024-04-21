@@ -21,7 +21,7 @@ body {
 
 .hero-logo {
   position: fixed;
-  margin: 2em;
+  margin: 0.5em;
   color: white;
   font-family: "Cosi Azure";
   font-style: 16px;
@@ -33,7 +33,7 @@ body {
   position: fixed;
   right: 0;
   margin: 2em;
-  color: white;
+  color: rgb(204, 237, 16);
   z-index: 1;
   cursor: pointer;
 }
@@ -41,7 +41,7 @@ body {
 border: 1px solid red;
 }
 .menu-toggle ion-icon {
-  font-style: 16px;
+  font-style: 22px;
   cursor: pointer;
 }
 
